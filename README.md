@@ -13,6 +13,10 @@ obb_trade.py파일을 실행하면
 obb로 전환한 데이터
 <img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/0ec73fea-4b21-48dc-a993-0a489872f090" />
 세그멘테이션 되어있는 데이터
-<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/0f156895-29a4-4c2e-86a4-442230a62310" />
+<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/a675d483-6f0e-491a-8e2f-0f6ae0462416" />
 obb로 전환한 데이터
-<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/3db7ab1a-3fd5-4edb-9bba-66d2b40cc0cc" />
+<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/fe419dfd-90f5-42eb-a9e6-ea21f43db30d" />
+세그멘테이션 되어있는 데이터
+<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/0f3f30b0-870d-4a55-9cf5-0d23e859c411" />
+obb로 전환한 데이터
+<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/fd534a45-b844-4601-b96f-951a108ecdf6" />
