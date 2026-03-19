@@ -27,7 +27,7 @@ obb로 전환한 데이터
 또는 제대로된 데이터셋을 구하는 방법 - 제일 확실함
   https://universe.roboflow.com/yolov8-uv8pz/paddleocr_project/images/?split=train
   위의 자료가 그나마 정확하지만 100장밖에 안되는 단점이있음
-
+  위의 데이터셋도 Obb가 가능하게 전처리가 필요함
 
 
 
