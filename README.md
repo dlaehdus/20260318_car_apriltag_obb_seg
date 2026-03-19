@@ -16,29 +16,17 @@ obb로 전환한 데이터
 
 <img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/0ec73fea-4b21-48dc-a993-0a489872f090" />
 
-세그멘테이션 되어있는 데이터
-
-<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/a675d483-6f0e-491a-8e2f-0f6ae0462416" />
-
-obb로 전환한 데이터
-
-<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/fe419dfd-90f5-42eb-a9e6-ea21f43db30d" />
-
-세그멘테이션 되어있는 데이터
-
-<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/0f3f30b0-870d-4a55-9cf5-0d23e859c411" />
-
-obb로 전환한 데이터
-
-<img width="593" height="558" alt="image" src="https://github.com/user-attachments/assets/fd534a45-b844-4601-b96f-951a108ecdf6" />
-
 
 위의 방법을 사용해서 세그멘테이션 자료를 obb로 전환하여 학습을 진행하였지만 에어프릴태그의 논리를 적용할 정도로 정밀하게 사각형 박스가 채워지지 않음
+
 <img width="447" height="183" alt="image" src="https://github.com/user-attachments/assets/98cd9207-627c-4bf1-a4cb-f2b759de37da" />
 
 위의 사진의 오른쪽 상단처럼 살짝 비껴가는 경우가 발생함 이유를 찾아보니 세그멘테이션 자료를 obb데이터로 변환할때 알고리즘에 이미지처리 필터를 통해 좀더 정밀한 전처리를 해야했음
 평균값을 활용해 정밀하게 다시 데이터 전처리 알고리즘을 작성하는 방법 
 또는 seg자료를 영상처리를 통해 obb처럼 만드는경우 2가지를 테스트 해볼것임
+또는 제대로된 데이터셋을 구하는 방법 - 제일 확실함
+  https://universe.roboflow.com/yolov8-uv8pz/paddleocr_project/images/?split=train
+  위의 자료가 그나마 정확하지만 100장밖에 안되는 단점이있음
 
 
 
